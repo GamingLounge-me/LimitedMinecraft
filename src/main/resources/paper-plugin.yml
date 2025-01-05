@@ -1,0 +1,14 @@
+name: LimitedMinecraft
+version: "${version}"
+main: me.gaminglounge.limitedminecraft.LimitedMinecraft
+description:
+api-version: "1.21"
+authors:
+  - "Jon1Games"
+loader: me.gaminglounge.limitedminecraft.LimitedMinecraftLoader
+dependencies:
+  server:
+    Stuff:
+      load: BEFORE
+      required: true
+      join-classpath: true

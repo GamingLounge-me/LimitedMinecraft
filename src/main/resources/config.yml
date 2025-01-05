@@ -1,0 +1,22 @@
+Start:
+  year: 0
+  month: 0
+  day: 0
+  hour: 0
+  minute: 0
+  second: 0
+Duration:
+  years: 0
+  months: 0
+  weeks: 1
+  days: 0
+  hours: 0
+  minutes: 0
+  seconds: 0
+
+WorldBoarder:
+  # Diameter
+  Inaktive: 7.5
+  Aktive: 2000
+
+BypassPermission: "limitedminecraft.bypass"
